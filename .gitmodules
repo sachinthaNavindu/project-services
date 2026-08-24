@@ -1,0 +1,18 @@
+[submodule "student-service"]
+	path = student-service
+	url = https://github.com/sachinthaNavindu/service-student.git
+[submodule "program-service"]
+	path = program-service
+	url = https://github.com/sachinthaNavindu/service-program.git
+[submodule "enrollment-service"]
+	path = enrollment-service
+	url = https://github.com/sachinthaNavindu/service-enrollment.git
+[submodule "service-student"]
+	path = service-student
+	url = https://github.com/sachinthaNavindu/service-student.git
+[submodule "service-program"]
+	path = service-program
+	url = https://github.com/sachinthaNavindu/service-program.git
+[submodule "service-enrollment"]
+	path = service-enrollment
+	url = https://github.com/sachinthaNavindu/service-enrollment.git
